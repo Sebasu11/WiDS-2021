@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # csv Files and Zip
-*.csv
+./data/raw/TrainingWiDS2021.csv
 *.zip
+
 
