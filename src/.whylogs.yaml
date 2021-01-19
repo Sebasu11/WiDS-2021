@@ -1,0 +1,10 @@
+pipeline: default-pipeline
+project: diabetes
+verbose: false
+writers:
+- filename_template: null
+  formats:
+  - all
+  output_path: output
+  path_template: null
+  type: local
