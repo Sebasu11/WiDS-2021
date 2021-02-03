@@ -132,4 +132,4 @@ dmypy.json
 ./data/raw/TrainingWiDS2021.csv
 *.zip
 
-.notebooks/mlruns
+.notebooks/mlruns/

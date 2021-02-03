@@ -1,0 +1,3 @@
+[('num', Pipeline(steps=[('imputer', SimpleImputer()), ('scaler', StandardScaler())]), Index(['encounter_id', 'age', 'bmi', 'elective_surgery', 'height',
+       'pre_icu_los_days', 'weight', 'apache_2_diagnosis',
+       'apache_3j_diagnosis', 'apa...

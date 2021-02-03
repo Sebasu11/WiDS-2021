@@ -1,0 +1,4 @@
+ColumnTransformer(transformers=[('num',
+                                 Pipeline(steps=[('imputer', SimpleImputer()),
+                                                 ('scaler', StandardScaler())]),
+                                 Index(['encoun...
